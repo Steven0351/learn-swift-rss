@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+	<channel>
+		<title>The Learn Swift Podcast</title>
+		<atom:link href="https://learnswift.show/feed.rss" rel="self" type="application/rss+xml" />
+		<link>https://learnswift.show</link>
+		<description>A weekly discussion with beginners to the Swift language.</description>
+		<lastBuildDate>Sun, 28 Jul 2019 04:37:07 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.9.8</generator>
+		<!-- podcast_generator="Blubrry PowerPress/7.3" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+		<itunes:summary>A weekly discussion with beginners to the Swift language.</itunes:summary>
+		<itunes:author>Steven Sherry</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Steven Sherry</itunes:name>
+			<itunes:email>learn.swift.podcast@gmail.com</itunes:email>
+		</itunes:owner>
+		<managingEditor>learn.swift.podcast@gmail.com (Steven Sherry)</managingEditor>
+		<itunes:subtitle></itunes:subtitle>
+		<image>
+			<title>The Learn Swift Podcast</title>
+      <url>https://learnswift.show/learnswift-cover.png</url>
+			<link>https://learnswift.show</link>
+		</image>
+		<itunes:category text="Technology"></itunes:category>
+		<googleplay:description>A weekly discussion with beginners to the Swift language</googleplay:description>
+		<googleplay:category text="Technology" />
+		<item>
+      <id>31</id>
+			<title>Farewell</title>
+			<link>https://learnswift.show/31</link>
+			<pubDate>Tue, 07 Aug 2018 05:30:00 +0000</pubDate>
+			<guid isPermaLink="false">http://aa09de0b-ec56-4338-9777-c23abca8bb00</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Sadly, this will be the last episode of Learn Swift. I want to thank everyone who has listened to the show, because it would not have been around if it wasn’t for you.</description>
+			<content:encoded>
+				<![CDATA[<p>Sadly, this will be the last episode of Learn Swift. I want to thank everyone who has listened to the show, because it would not have been around if it wasn&#8217;t for you. I met a lot of great developers that I never would have had the pleasure of talking to otherwise, and the show would have been impossible without them as well. I also want to thank Garric of Swift Coders for helping me get this show off of the ground and giving me a lot of pointers early on, and I am grateful for the friendships I gained from being a part of the Swift Coders family of podcasts.</p><p>Podcasts that I currently listen to (in no particular order):<br /><a href="https://itunes.apple.com/us/podcast/core-intuition/id281777685?mt=2" rel="nofollow">Core Intuition</a><br /><a href="https://itunes.apple.com/us/podcast/more-than-just-code-podcast-ios-swift-development-news/id906987516?mt=2" rel="nofollow">More Than Just Code</a><br /><a href="https://itunes.apple.com/us/podcast/swift-by-sundell/id1267161825?mt=2" rel="nofollow">Swift by Sundell</a><br /><a href="https://itunes.apple.com/us/podcast/coder-radio/id534941512?mt=2" rel="nofollow">Coder Radio</a><br /><a href="https://itunes.apple.com/us/podcast/independence/id1238555061?mt=2" rel="nofollow">Independence</a><br /><a href="https://itunes.apple.com/us/podcast/the-raywenderlich-com-podcast/id773910890?mt=2" rel="nofollow">RayWenderlich.com Podcast</a><br /><a href="https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2" rel="nofollow">Swift Unwrapped</a><br /><a href="https://itunes.apple.com/us/podcast/under-the-radar/id1055685246?mt=2" rel="nofollow">Under the Radar</a><br /><a href="https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2" rel="nofollow">Fireside Swift</a><br /><a href="https://itunes.apple.com/us/podcast/swiftcraft-podcast/id1342090247?mt=2" rel="nofollow">SwiftCraft</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E10-Farewell.mp3" length="5242880" type="audio/mpeg" />
+			<itunes:subtitle>Sadly, this will be the last episode of Learn Swift. I want to thank everyone who has listened to the show, because it would not have been around if it wasn’t for you. I met a lot of great developers that I never would have had the pleasure of talking ...</itunes:subtitle>
+			<itunes:summary>Sadly, this will be the last episode of Learn Swift. I want to thank everyone who has listened to the show, because it would not have been around if it wasn’t for you. I met a lot of great developers that I never would have had the pleasure of talking to otherwise, and the show … Continue reading &quot;31: Farewell&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>30:35</itunes:duration>
+		</item>
+		<item>
+      <id>30</id>
+			<title>Greg Szydlo Part II</title>
+			<link>https://learnswift.show/30</link>
+			<pubDate>Tue, 31 Jul 2018 05:30:00 +0000</pubDate>
+			<guid isPermaLink="false">http://61a253dc-087c-4316-8a80-f79cf16f0ca6</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>When Greg first came on the show he was in the early stages of developing his meal planning app and has since gone through several beta and release cycles.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode I bring back Greg Szydlo. When Greg first came on the show he was in the early stages of developing his meal planning app and has since gone through several beta and release cycles. We talk about TestFlight, creating UI in code, and releasing to the app store. You will also hear me repeatedly refer to UIViewPropertyAnimator as UIPropertyViewAnimator: apologies if that makes you cringe! Greg is also looking for more beta testers, so if you are interested in helping out reach out to him via one of the methods below!</p><p><a href="https://itunes.apple.com/us/app/meals-food-planner/id1291771889?mt=8" rel="nofollow">Food Planner on the App Store</a><br />
+Greg on Twitter &#8211; <a href="https://www.twitter.com/boywithaxe" rel="nofollow">@boywithaxe</a><br /><a href="mailto:greg@apparmory.com" rel="nofollow">Email Greg</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E09-GregSzydloPartII.mp3" length="76282486" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode I bring back Greg Szydlo. When Greg first came on the show he was in the early stages of developing his meal planning app and has since gone through several beta and release cycles. We talk about TestFlight, creating UI in code,</itunes:subtitle>
+			<itunes:summary>On today’s episode I bring back Greg Szydlo. When Greg first came on the show he was in the early stages of developing his meal planning app and has since gone through several beta and release cycles. We talk about TestFlight, creating UI in code, and releasing to the app store. You will also hear … Continue reading &quot;30: Greg Szydlo Part II&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>29</id>
+			<title>David Kopec - Assistant Professor @ Champlain College and Author of Classic Computer Science Problems in Swift</title>
+      <link>https://learnswift.show/29</link>
+			<pubDate>Tue, 19 Jun 2018 06:30:00 +0000</pubDate>
+			<guid isPermaLink="false">http://d3532a1d-0181-4769-a905-9580a9042922</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Today’s episode has special guest David Kopec, Author of Classic Computer Science Problems in Swift. David has been involved in the iOS community for a while and previously hosted a podcast called Consult that featured prominent community members like Manton Reece and Aaron Hillegas.</description>
+			<content:encoded>
+				<![CDATA[<p>Today&#8217;s episode has special guest David Kopec, Author of Classic Computer Science Problems in Swift. David has been involved in the iOS community for a while and previously hosted a podcast called Consult that featured prominent community members like Manton Reece and Aaron Hillegas. David also spent several years as a contractor primarily focusing on iOS development for early stage start-ups. He currently teaches Computer Science full-time at Champlain College in Vermont.</p><p>I have three free copies of David&#8217;s book to give away @ <a href="https://learnswift.fireside.fm/sweepstakes" rel="nofollow">learnswift.fireside.fm/sweepstakes</a>. Enter the code heard during the show along with your contact information to be eligible for the drawing!</p><p>Those not fortunate to be a winner of the free copies can receive a 50% discount using discount code pckopec when purchasing the book<br />
+through <a href="https://www.manning.com/books/classic-computer-science-problems-in-swift" rel="nofollow">manning.com</a>.</p><p>David on Twitter &#8211; <a href="https://www.twitter.com/davekopec" rel="nofollow">@davekopec</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E08-DavidKopec.mp3" length="51411406" type="audio/mpeg" />
+			<itunes:subtitle>Today’s episode has special guest David Kopec, Author of Classic Computer Science Problems in Swift. David has been involved in the iOS community for a while and previously hosted a podcast called Consult that featured prominent community members like ...</itunes:subtitle>
+			<itunes:summary>Today’s episode has special guest David Kopec, Author of Classic Computer Science Problems in Swift. David has been involved in the iOS community for a while and previously hosted a podcast called Consult that featured prominent community members like Manton Reece and Aaron Hillegas. David also spent several years as a contractor primarily focusing on … Continue reading &quot;29: David Kopec – Assistant Professor @ Champlain College and Author of Classic Computer Science Problems in Swift&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>28</id>
+			<title>Joe Fabisevich - iOS Developer @ Twitter</title>
+      <link>https://learnswift.show/28</link>
+			<pubDate>Tue, 12 Jun 2018 05:30:00 +0000</pubDate>
+			<guid isPermaLink="false">http://3e3767d8-8306-46f7-8859-f7f19c98d178</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Joe recently became an iOS Developer at Twitter and spent the majority of the last decade doing contract iOS development.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s installment of the Learn Swift Mentor Series I interview Joe Fabisevich. Joe recently became an iOS Developer at Twitter and spent the majority of the last decade doing contract iOS development. We talk about his experience contracting, his reasoning for going back to a full-time job, and the things he thinks are important for new developers to know.</p><p>Joe on Twitter &#8211; <a href="https://www.twitter.com/mergesort" rel="nofollow">@mergesort</a><br />
+Joe&#8217;s Newsletter &#8211; <a href="https://bit.ly/programming-newsletter" rel="nofollow">bit.ly/programming-newsletter</a><br /><a href="https://github.com/asowers1/CodableCache" rel="nofollow">Github/CodableCache</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p><p>Sponsored By:</p><ul><li><a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School</a>: <a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School is offering a free two week iOS 101 course with absolutely no strings attached. There are two cohorts available staring June 11th and June 25th, operating on a Monday through Thursday schedule. Each day covers 1 hour of live instruction, an hour of practice problems with TA’s available to answer any questions, and another hour of small group discussion around the problems. The cohort covers an introduction to Swift, the basics of Xcode and UIKit, and is a perfect way to see if Lambda School is the right fit for you.</a></li></ul>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E07-JoeFabisevich.mp3" length="51649225" type="audio/mpeg" />
+			<itunes:subtitle>On today’s installment of the Learn Swift Mentor Series I interview Joe Fabisevich. Joe recently became an iOS Developer at Twitter and spent the majority of the last decade doing contract iOS development. We talk about his experience contracting,</itunes:subtitle>
+			<itunes:summary>On today’s installment of the Learn Swift Mentor Series I interview Joe Fabisevich. Joe recently became an iOS Developer at Twitter and spent the majority of the last decade doing contract iOS development. We talk about his experience contracting, his reasoning for going back to a full-time job, and the things he thinks are important … Continue reading &quot;28: Joe Fabisevich – iOS Developer @ Twitter&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>27</id>
+			<title>Kevin Potis - Brand Strategist</title>
+      <link>https://learnswift.show/27</link>
+			<pubDate>Tue, 05 Jun 2018 05:30:00 +0000</pubDate>
+			<guid isPermaLink="false">http://ba4c3894-fae4-4e9e-94c8-42c9f0c27580</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Kevin is a Brand Strategist for a large media conglomerate and initially decided to learn Swift and iOS development to aid in a project he envisioned for work.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode I interview Kevin Potis. Kevin is a Brand Strategist for a large media conglomerate  and initially decided to learn Swift and iOS development to aid in a project he envisioned for work. We talk about his struggles six months in to learning Swift with little to no programming background as well as his aspirations going forward.</p><p>Kevin on Twitter &#8211; <a href="https://www.twitter.com/kpotis" rel="nofollow">@kpotis</a><br /><a href="https://appadvice.com/app/smonsters-stickers/1381250970" rel="nofollow">Smonsters Sticker Pack</a></p><p>Danny Schlitz &#8211; AMAZING illustrator &#8211; <a href="https://www.dannyschlitz.com" rel="nofollow">dannyschlitz.com</a><br /><a href="https://atomicart1.myportfolio.com/the-100-faces-of-danny-schlitz" rel="nofollow">The 100 Faces of Danny Schlitz</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p><p>Sponsored By:</p><ul><li><a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School</a>: <a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School is offering a free two week iOS 101 course with absolutely no strings attached. There are two cohorts available staring June 11th and June 25th, operating on a Monday through Thursday schedule. Each day covers 1 hour of live instruction, an hour of practice problems with TA’s available to answer any questions, and another hour of small group discussion around the problems. The cohort covers an introduction to Swift, the basics of Xcode and UIKit, and is a perfect way to see if Lambda School is the right fit for you.</a></li></ul>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E06-KevinPotis.mp3" length="56357117" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode I interview Kevin Potis. Kevin is a Brand Strategist for a large media conglomerate  and initially decided to learn Swift and iOS development to aid in a project he envisioned for work. We talk about his struggles six months in to le...</itunes:subtitle>
+			<itunes:summary>On today’s episode I interview Kevin Potis. Kevin is a Brand Strategist for a large media conglomerate  and initially decided to learn Swift and iOS development to aid in a project he envisioned for work. We talk about his struggles six months in to learning Swift with little to no programming background as well as … Continue reading &quot;27: Kevin Potis – Brand Strategist&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>26</id>
+			<title>Isaac Halvorson - iOS Developer @ CH Robinson</title>
+      <link>https://learnswift.show/26</link>
+			<pubDate>Tue, 29 May 2018 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://9756693a-ab5b-47f7-9cae-5f5b79c79347</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Isaac is a junior iOS developer at CH Robinson that began his career there as a web developer with zero Swift experience.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode I interview Isaac Halvorson. Isaac is a junior iOS developer at CH Robinson that began his career there as a web developer with zero Swift experience. We discuss his transition from web to iOS, the struggles he faced being the only iOS developer, as well as his triumphs.</p><p>Issac on Twitter &#8211; <a href="https://www.twitter.com/hisaac" rel="nofollow">@hissac</a><br />
+Issac&#8217;s Side Projects: <a href="https://github.com/hisaac/tiime" rel="nofollow">Tiime</a> &amp; <a href="https://github.com/hisaac/adage" rel="nofollow">Adage</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p><p>Sponsored By:</p><ul><li><a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School</a>: <a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School is offering a free two week iOS 101 course with absolutely no strings attached. There are two cohorts available staring June 11th and June 25th, operating on a Monday through Thursday schedule. Each day covers 1 hour of live instruction, an hour of practice problems with TA’s available to answer any questions, and another hour of small group discussion around the problems. The cohort covers an introduction to Swift, the basics of Xcode and UIKit, and is a perfect way to see if Lambda School is the right fit for you.</a></li></ul>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E05-IssacHalvorson.mp3" length="48296774" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode I interview Isaac Halvorson. Isaac is a junior iOS developer at CH Robinson that began his career there as a web developer with zero Swift experience. We discuss his transition from web to iOS,</itunes:subtitle>
+			<itunes:summary>On today’s episode I interview Isaac Halvorson. Isaac is a junior iOS developer at CH Robinson that began his career there as a web developer with zero Swift experience. We discuss his transition from web to iOS, the struggles he faced being the only iOS developer, as well as his triumphs. Issac on Twitter – … Continue reading &quot;26: Isaac Halvorson – iOS Developer @ CH Robinson&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>25</id>
+			<title>Sam Jarman - iOS Developer @ BNZ</title>
+      <link>https://learnswift.show/25</link>
+			<pubDate>Tue, 22 May 2018 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://247cd164-6b2b-466c-a273-af0c0c721028</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Sam is an iOS developer at the Bank of New Zealand and it’s his first job writing production Swift code. We discuss his transition from Objective-C to Swift and compare and contrast the two languages.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode I interview Sam Jarman. Sam is an iOS developer at the Bank of New Zealand and it&#8217;s his first job writing production Swift code. We discuss his transition from Objective-C to Swift and compare and contrast the two languages.</p><p>WWDC 2016 Video &#8211; <a href="https://developer.apple.com/videos/play/wwdc2016/403/" rel="nofollow">Swift API Design Guidelines</a></p><p>Sam on Twitter &#8211; <a href="https://www.twitter.com/samjarman/" rel="nofollow">@samjarman</a><br />
+Sam&#8217;s Website &#8211; <a href="https://www.samjarman.co.nz" rel="nofollow">https://www.samjarman.co.nz</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p><p>Sponsored By:</p><ul><li><a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School</a>: <a href="https://www.lambdaschool.com/learnswift" rel="nofollow">Lambda School is offering a free two week iOS 101 course with absolutely no strings attached. There are two cohorts available staring June 11th and June 25th, operating on a Monday through Thursday schedule. Each day covers 1 hour of live instruction, an hour of practice problems with TA’s available to answer any questions, and another hour of small group discussion around the problems. The cohort covers an introduction to Swift, the basics of Xcode and UIKit, and is a perfect way to see if Lambda School is the right fit for you.</a></li></ul>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E04-SamJarman.mp3" length="59115230" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode I interview Sam Jarman. Sam is an iOS developer at the Bank of New Zealand and it’s his first job writing production Swift code. We discuss his transition from Objective-C to Swift and compare and contrast the two languages.</itunes:subtitle>
+			<itunes:summary>On today’s episode I interview Sam Jarman. Sam is an iOS developer at the Bank of New Zealand and it’s his first job writing production Swift code. We discuss his transition from Objective-C to Swift and compare and contrast the two languages. WWDC 2016 Video – Swift API Design Guidelines Sam on Twitter – @samjarman … Continue reading &quot;25: Sam Jarman – iOS Developer @ BNZ&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>24</id>
+			<title>Emmanuel Haroutunian - It's Pronounced HARROW-TOON-YUN</title>
+      <link>https://learnswift.show/24</link>
+			<pubDate>Tue, 15 May 2018 05:45:00 +0000</pubDate>
+			<guid isPermaLink="false">http://b62d7296-4e36-4eba-97a1-e4ed693366d2</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>After horribly butchering Emmanuel's last name (it’s pronounced HARROW-TOON-YUN) we talk about resources that helped him land his first iOS developer job as well as common pitfalls we all face when learning new concepts.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode I interview Emmanuel Haroutunian. After horribly butchering his name (it&#8217;s pronounced HARROW-TOON-YUN) we talk about resources that helped him land his first iOS developer job as well as common pitfalls we all face when learning new concepts.</p><p>Learning Resources<br /><a href="https://www.udacity.com/course/ios-developer-nanodegree--nd003" rel="nofollow">Udacity iOS Nanodegree</a><br /><a href="https://teamtreehouse.com" rel="nofollow">Team Treehouse</a><br /><a href="https://store.raywenderlich.com/products/core-data-by-tutorials" rel="nofollow">Ray Wenderlich &#8211; Core Data by Tutorials</a><br /><a href="https://store.raywenderlich.com/products/rxswift" rel="nofollow">Ray Wenderlich &#8211; RxSwift</a></p><p>Volunteer Resources<br /><a href="https://www.catchafire.org" rel="nofollow">https://www.catchafire.org</a><br /><a href="https://www.volunteermatch.org" rel="nofollow">https://www.volunteermatch.org</a></p><p>Eman on Twitter &#8211; <a href="https://www.twitter.com/emanleet" rel="nofollow">@emanleet</a><br /><a href="https://itunes.apple.com/us/podcast/swiftcraft-podcast/id1342090247?mt=2" rel="nofollow">SwiftCraft</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E03-Emman.mp3" length="66183756" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode I interview Emmanuel Haroutunian. After horribly butchering his name (it’s pronounced HARROW-TOON-YUN) we talk about resources that helped him land his first iOS developer job as well as common pitfalls we all face when learning new ...</itunes:subtitle>
+			<itunes:summary>On today’s episode I interview Emmanuel Haroutunian. After horribly butchering his name (it’s pronounced HARROW-TOON-YUN) we talk about resources that helped him land his first iOS developer job as well as common pitfalls we all face when learning new concepts. Learning Resources Udacity iOS Nanodegree Team Treehouse Ray Wenderlich – Core Data by Tutorials Ray … Continue reading &quot;24: Emmanuel Haroutunian – It’s Pronounced HARROW-TOON-YUN&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>23</id>
+			<title>Sid Verma - Technical Support Engineer</title>
+      <link>https://learnswift.show/23</link>
+			<pubDate>Tue, 08 May 2018 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://27449645-fbae-43fa-bf4e-6cd85ad781d3</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Sid Verma is a full-time Technical Support Engineer and CS Student who somehow also has time to work on his startup project Twine.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode I interview Sid Verma, a full-time Technical Support Engineer and CS Student who somehow <em>also</em> has time to work on his startup project <a href="https://itunes.apple.com/us/app/twine-make-and-meet-friends/id1159264642?mt=8" rel="nofollow">Twine</a>. We discuss his background, musings on Swift and iOS tutorials, and what it&#8217;s like growing a project from one developer to many.</p><p>Today&#8217;s episode is brought to you by SwiftFest. SwiftFest is a new conference about iOS development coming to Boston, Massachusetts June 18th and 19th that brings together engineers, architects, midnight coders and students in a highly social and vibrant environment entirely focused on Swift. Head over to <a href="https://swiftfest.io" rel="nofollow">swiftfest.io</a> and enter offer code Learn-Swift-Podcast-20-OFF at checkout to get 20% off your conference tickets. You can alternatively head over to <a href="https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469?discount=Learn-Swift-Podcast-20-OFF" rel="nofollow">https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469?discount=Learn-Swift-Podcast-20-OFF</a> to automatically apply the discount at checkout.</p><p><a href="https://www.instagram.com/sidvermaovo/" rel="nofollow">Sid on Instagram</a></p><p><a href="mailto:sid.verma014@gmail.com" rel="nofollow">Email Sid</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E02-Sid.mp3" length="47727096" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode I interview Sid Verma, a full-time Technical Support Engineer and CS Student who somehow also has time to work on his startup project Twine. We discuss his background, musings on Swift and iOS tutorials,</itunes:subtitle>
+			<itunes:summary>On today’s episode I interview Sid Verma, a full-time Technical Support Engineer and CS Student who somehow also has time to work on his startup project Twine. We discuss his background, musings on Swift and iOS tutorials, and what it’s like growing a project from one developer to many. Today’s episode is brought to you … Continue reading &quot;23: Sid Verma – Technical Support Engineer&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>22</id>
+			<title>Me, Myself, & I Part II</title>
+      <link>https://learnswift.show/22</link>
+			<pubDate>Tue, 01 May 2018 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://40c2c070-f7c6-4a42-8875-c3b0bbf9deea</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Ladies and Gents, we are back! In this first episode of season 2 I catch you up with what I have been up to.</description>
+			<content:encoded>
+				<![CDATA[<p>Ladies and Gents, we are back! In this first episode of season 2 I catch you up with what I have been up to. I talk about the inventory application I worked on to aid in my annual inventory, two projects that I open-sourced, imposter syndrome, and my plans for the show going forward.</p><p>Today&#8217;s episode is brought to you by SwiftFest. SwiftFest is a new conference about iOS development coming to Boston, Massachusetts June 18th and 19th that brings together engineers, architects, midnight coders and students in a highly social and vibrant environment entirely focused on Swift. Head over to <a href="https://swiftfest.io" rel="nofollow">swiftfest.io</a> and enter offer code Learn-Swift-Podcast-20-OFF at checkout to get 20% off your conference tickets. You can alternatively head over to <a href="https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469?discount=Learn-Swift-Podcast-20-OFF" rel="nofollow">https://www.eventbrite.com/e/swiftfest-2018-tickets-37370599469?discount=Learn-Swift-Podcast-20-OFF</a> to automatically apply the discount at checkout.</p><p><a href="https://github.com/SwiftyTesseract/SwiftyTesseract" rel="nofollow">SwiftyTesseract/SwiftyTesseract on GitHub</a><br /><a href="https://github.com/SwiftyTesseract/SwiftyTesseractRTE" rel="nofollow">SwiftyTesseract/SwiftyTesseractRTE on GitHub</a><br /><a href="https://en.wikipedia.org/wiki/Semaphore_(programming)" rel="nofollow">Semaphore Wikipedia Article</a><br /><a href="https://developer.apple.com/documentation/dispatch/dispatchsemaphore" rel="nofollow">DispatchSempahore</a></p><p>As always, feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S02E01-Me.mp3" length="45217251" type="audio/mpeg" />
+			<itunes:subtitle>Ladies and Gents, we are back! In this first episode of season 2 I catch you up with what I have been up to. I talk about the inventory application I worked on to aid in my annual inventory, two projects that I open-sourced, imposter syndrome,</itunes:subtitle>
+			<itunes:summary>Ladies and Gents, we are back! In this first episode of season 2 I catch you up with what I have been up to. I talk about the inventory application I worked on to aid in my annual inventory, two projects that I open-sourced, imposter syndrome, and my plans for the show going forward. Today’s … Continue reading &quot;22: Me, Myself, &amp; I Part II&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>21</id>
+			<title>Marc Aupont - iOS Developer @ YouMap</title>
+      <link>https://learnswift.show/21</link>
+			<pubDate>Tue, 16 Jan 2018 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://10655e2c-2cd5-4bf4-b72c-089654c54916</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>When I first spoke with Marc in Episode 2, he was in the process of finding a job as an iOS developer. His job hunt ended in success and he is now employed as an iOS developer with YouMap.</description>
+			<content:encoded>
+				<![CDATA[<p>On Today&#8217;s episode, I interview Marc Aupont (again!). When I first spoke with Marc in Episode 2, he was in the process of finding a job as an iOS developer. His job hunt ended in success and he is now employed as an iOS developer with <a href="https://youmap.com" rel="nofollow">YouMap</a>.</p><p>This will be the end of Season 1 of The Learn Swift Podcast. I am expecting my first child very soon, and will return in approximately 6 weeks. Thank you to everyone that has liked, listened, subscribed, and rated the podcast this first season!</p><p>Marc on Twitter <a href="https://twitter.com/digimarktech" rel="nofollow">@digimarktech</a><br /><a href="mailto:marc@youmap.com" rel="nofollow">Email Marc</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E21-MarcAupont.mp3" length="44575056" type="audio/mpeg" />
+			<itunes:subtitle>On Today’s episode, I interview Marc Aupont (again!). When I first spoke with Marc in Episode 2, he was in the process of finding a job as an iOS developer. His job hunt ended in success and he is now employed as an iOS developer with YouMap.</itunes:subtitle>
+			<itunes:summary>On Today’s episode, I interview Marc Aupont (again!). When I first spoke with Marc in Episode 2, he was in the process of finding a job as an iOS developer. His job hunt ended in success and he is now employed as an iOS developer with YouMap. This will be the end of Season 1 … Continue reading &quot;21: Marc Aupont – iOS Developer @ YouMap&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>20</id>
+			<title>David Okun - Developer Advocate @ IBM</title>
+      <link>https://learnswift.show/20</link>
+			<pubDate>Tue, 09 Jan 2018 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://0ec91cd5-4702-456b-9f84-37efcead17e6</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>David is a Developer Advocate for IBM Cloud Services using Node and Swift. He recently released a tutorial titled Writing Reusable Frameworks on LinkedInLearning (formerly known as Lynda).</description>
+			<content:encoded>
+				<![CDATA[<p>On Today&#8217;s episode, I interview David Okun. David is a Developer Advocate for IBM Cloud Services using Node and Swift. He recently released a tutorial titled Writing Reusable Frameworks on LinkedInLearning (formerly known as Lynda). He also recently released version 1.0 of his open source project named Lumina that allows developers to easily integrate CoreML models with the camera.</p><p>David&#8217;s LinkedInLearning Tutorial &#8211; <a href="https://www.lynda.com/Swift-tutorials/Swift-Writing-Reusable-Frameworks/636120-2.html" rel="nofollow">Swift: Writing Resuable Frameworks</a></p><p><a href="https://github.com/dokun1/Lumina" rel="nofollow">Lumina</a><br /><a href="https://www.youtube.com/watch?v=8eEAvcy708s" rel="nofollow">Lumina YouTube Video</a></p><p>David on Twitter <a href="https://twitter.com/dokun24" rel="nofollow">@dokun24</a><br />
+David&#8217;s Personal Website <a href="https://okun.io" rel="nofollow">okun.io</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E20-DavidOkun.mp3" length="25683928" type="audio/mpeg" />
+			<itunes:subtitle>On Today’s episode, I interview David Okun. David is a Developer Advocate for IBM Cloud Services using Node and Swift. He recently released a tutorial titled Writing Reusable Frameworks on LinkedInLearning (formerly known as Lynda).</itunes:subtitle>
+			<itunes:summary>On Today’s episode, I interview David Okun. David is a Developer Advocate for IBM Cloud Services using Node and Swift. He recently released a tutorial titled Writing Reusable Frameworks on LinkedInLearning (formerly known as Lynda). He also recently released version 1.0 of his open source project named Lumina that allows developers to easily integrate CoreML … Continue reading &quot;20: David Okun – Developer Advocate @ IBM&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>19</id>
+			<title>Graeme Sheppard - High School Physics Teacher</title>
+      <link>https://learnswift.show/19</link>
+			<pubDate>Tue, 02 Jan 2018 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://156b83c4-65c5-4c0e-ae04-dde95b702d23</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Graeme is a high school physics teacher in Thailand who has released numerous sticker packs and two apps on the app store.</description>
+			<content:encoded>
+				<![CDATA[<p>On Today’s episode, I interview Graeme Sheppard. Graeme is a high school physics teacher in Thailand who has released numerous sticker packs and two apps on the app store. He is currently working on an app he calls &#8220;Working Class&#8221; to aid teachers in their day-to-day workflows.</p><p><a href="https://www.raywenderlich.com/122144/in-app-purchase-tutorial" rel="nofollow">Ray Wenderlich In-App Purchase Tutorial</a><br /><a href="https://github.com/danielgindi/Charts" rel="nofollow">Charts library</a></p><p>Graeme on Twitter <a href="https://twitter.com/GraemeSheppard" rel="nofollow">@GraemeSheppard</a><br />
+Latte Pilates on Twitter <a href="https://twitter.com/LattePilates" rel="nofollow">@LattePilates</a><br /><a href="https://appsandliving.com" rel="nofollow">Apps and Living</a><br /><a href="https://github.com/igorkulman/iOSSampleApp" rel="nofollow">Igor&#8217;s sample app</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E19-GraemeSheppard.mp3" length="25267849" type="audio/mpeg" />
+			<itunes:subtitle>On Today’s episode, I interview Graeme Sheppard. Graeme is a high school physics teacher in Thailand who has released numerous sticker packs and two apps on the app store. He is currently working on an app he calls “Working Class” to aid teachers in th...</itunes:subtitle>
+			<itunes:summary>On Today’s episode, I interview Graeme Sheppard. Graeme is a high school physics teacher in Thailand who has released numerous sticker packs and two apps on the app store. He is currently working on an app he calls “Working Class” to aid teachers in their day-to-day workflows. Ray Wenderlich In-App Purchase Tutorial Charts library Graeme … Continue reading &quot;19: Graeme Sheppard – High School Physics Teacher&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>18</id>
+			<title>Igor Kulman - Former Windows Phone Developer</title>
+      <link>https://learnswift.show/18</link>
+			<pubDate>Tue, 19 Dec 2017 03:30:00 +0000</pubDate>
+			<guid isPermaLink="false">http://3e2a389f-4985-485f-884d-a0bdb7632860</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Igor is a former Windows Phone developer in Prague, who switched to iOS development after the death of the Windows Phone and is currently working on a native re-write of his organization’s Titanium-based app.</description>
+			<content:encoded>
+				<![CDATA[<p>On Today’s episode, I interview Igor Kulman. Igor is a former Windows Phone developer in Prague, who switched to iOS development after the death of the Windows Phone and is currently working on a native re-write of his organization’s Titanium-based app.</p><p>Igor on Twitter <a href="https://twitter.com/igorkulman" rel="nofollow">@igorkulman</a><br /><a href="https://blog.kulman.sk" rel="nofollow">Igor&#8217;s blog</a><br /><a href="https://github.com/igorkulman" rel="nofollow">Igor&#8217;s Github</a><br /><a href="https://github.com/igorkulman/iOSSampleApp" rel="nofollow">Igor&#8217;s sample app</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E18-IgorKulman.mp3" length="27383977" type="audio/mpeg" />
+			<itunes:subtitle>On Today’s episode, I interview Igor Kulman. Igor is a former Windows Phone developer in Prague, who switched to iOS development after the death of the Windows Phone and is currently working on a native re-write of his organization’s Titanium-based app...</itunes:subtitle>
+			<itunes:summary>On Today’s episode, I interview Igor Kulman. Igor is a former Windows Phone developer in Prague, who switched to iOS development after the death of the Windows Phone and is currently working on a native re-write of his organization’s Titanium-based app. Igor on Twitter @igorkulman Igor’s blog Igor’s Github Igor’s sample app Feel free to … Continue reading &quot;18: Igor Kulman – Former Windows Phone Developer&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>17</id>
+			<title>Bashir Sentongo - CS Student @ University of Surrey</title>
+      <link>https://learnswift.show/17</link>
+			<pubDate>Tue, 12 Dec 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://a723821f-e014-4f85-8f9b-0cc6cecc8120</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Bashir is a computer science student at the University of Surrey near London, and is learning Swift and iOS development in his free time.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode, I interview Bashir Sentongo. Bashir is a computer science student at the University of Surrey near London, and is learning Swift and iOS development in his free time.</p><p>Bashir on Twitter <a href="https://twitter.com/ryhan112" rel="nofollow">@ryhan112</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E17-BashirSentongo.mp3" length="28382690" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode, I interview Bashir Sentongo. Bashir is a computer science student at the University of Surrey near London, and is learning Swift and iOS development in his free time. Bashir on Twitter @ryhan112 Feel free to reach out to me on Twitt...</itunes:subtitle>
+			<itunes:summary>On today’s episode, I interview Bashir Sentongo. Bashir is a computer science student at the University of Surrey near London, and is learning Swift and iOS development in his free time. Bashir on Twitter @ryhan112 Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>16</id>
+			<title>Bart Jacobs - Author of Cocoacasts Part II</title>
+      <link>https://learnswift.show/16</link>
+			<pubDate>Tue, 05 Dec 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://d39f74a9-a544-4286-a5b7-162c5b2b37cb</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>On today’s episode, we continue with Part II of the Bart Jacobs interview.</description>
+			<content:encoded>
+				<![CDATA[<p>On today’s episode, we continue with Part II of the Bart Jacobs interview. Last week we discussed Bart’s background and the 4 Swift patterns he swears by, which include name spacing in Swift, dependency injection, value types, and MVVM. In this episode, Bart and I discuss his four books, <a href="https://cocoacasts.com/mastering-core-data-with-swift/" rel="nofollow">Mastring Core Data with Swift</a>, <a href="https://cocoacasts.com/mastering-model-view-viewmodel-with-swift/" rel="nofollow">Mastering MVVM with Swift</a>, <a href="https://cocoacasts.com/auto-layout-fundamentals" rel="nofollow">Autolayout Fundamentals</a>, and <a href="https://cocoacasts.com/the-missing-manual-for-swift-development/" rel="nofollow">The Missing Manual for Swift Development.</a></p><p><a href="https://cocoacasts.com" rel="nofollow">Cocoacasts</a><br /><a href="https://cocoacasts.com/products" rel="nofollow">Bart&#8217;s Books and Courses</a><br />
+Bart on Twitter <a href="https://twitter.com/_bartjacobs" rel="nofollow">@_bartjacobs</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E16-BartJacobs.mp3" length="30380117" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode, we continue with Part II of the Bart Jacobs interview. Last week we discussed Bart’s background and the 4 Swift patterns he swears by, which include name spacing in Swift, dependency injection, value types, and MVVM.</itunes:subtitle>
+			<itunes:summary>On today’s episode, we continue with Part II of the Bart Jacobs interview. Last week we discussed Bart’s background and the 4 Swift patterns he swears by, which include name spacing in Swift, dependency injection, value types, and MVVM. In this episode, Bart and I discuss his four books, Mastring Core Data with Swift, Mastering … Continue reading &quot;16: Bart Jacobs – Author of Cocoacasts Part II&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>15</id>
+			<title>Bart Jacobs - Author of Cocoacasts Part I</title>
+      <link>https://learnswift.show/15</link>
+			<pubDate>Tue, 28 Nov 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://8edf86c3-633f-48ba-ab7a-6974dcbeab88</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Bart is the author of the Cocoacasts blog as well as several Swift and iOS tutorial books such as Mastering MVVM with Swift and Mastring Core Data with Swift.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode, I interview Bart Jacobs. Bart is the author of the Cocoacasts blog as well as several Swift and iOS tutorial books such as <a href="https://cocoacasts.com/mastering-model-view-viewmodel-with-swift/" rel="nofollow">Mastering MVVM with Swift</a> and <a href="https://cocoacasts.com/mastering-core-data-with-swift/" rel="nofollow">Mastring Core Data with Swift.</a></p><p><a href="https://academy.realm.io/posts/andy-matuschak-controlling-complexity/" rel="nofollow">Andy Matuschak&#8217;s talk on value types</a></p><p><a href="https://cocoacasts.com" rel="nofollow">Cocoacasts</a><br /><a href="https://cocoacasts.com/products" rel="nofollow">Bart&#8217;s Books and Courses</a><br />
+Bart on Twitter <a href="https://twitter.com/_bartjacobs" rel="nofollow">@_bartjacobs</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351" rel="nofollow">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E15-BartJacobs.mp3" length="25695839" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode, I interview Bart Jacobs. Bart is the author of the Cocoacasts blog as well as several Swift and iOS tutorial books such as Mastering MVVM with Swift and Mastring Core Data with Swift. Andy Matuschak’s talk on value types Cocoacasts ...</itunes:subtitle>
+			<itunes:summary>On today’s episode, I interview Bart Jacobs. Bart is the author of the Cocoacasts blog as well as several Swift and iOS tutorial books such as Mastering MVVM with Swift and Mastring Core Data with Swift. Andy Matuschak’s talk on value types Cocoacasts Bart’s Books and Courses Bart on Twitter @_bartjacobs Feel free to reach … Continue reading &quot;15: Bart Jacobs – Author of Cocoacasts Part I&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>14</id>
+			<title>Josiah Mory - Customer Support Representative</title>
+      <link>https://learnswift.show/id</link>
+			<pubDate>Tue, 21 Nov 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://88fb3544-b027-4288-ba38-f132fea15567</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Josiah does customer support for a startup and started learning Swift shortly after Swift 3 was released.</description>
+			<content:encoded>
+				<![CDATA[<p>On today’s episode, I interview Josiah Mory. Josiah does customer support for a startup and started learning Swift shortly after Swift 3 was released. He put out a fantasy baseball drafting app back in February and hopes to become a professional iOS developer.</p><p>Josiah on Twitter<a href="https://twitter.com/kickinbahk">@kickinbahk</a><br /><a href="https://itunes.apple.com/us/app/mock-solo-baseball-2017/id1205219100?ls=1&amp;mt=8">Mock Solo on the App Store</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E14-JosiahMory.mp3" length="26801550" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode, I interview Josiah Mory. Josiah does customer support for a startup and started learning Swift shortly after Swift 3 was released. He put out a fantasy baseball drafting app back in February and hopes to become a professional iOS de...</itunes:subtitle>
+			<itunes:summary>On today’s episode, I interview Josiah Mory. Josiah does customer support for a startup and started learning Swift shortly after Swift 3 was released. He put out a fantasy baseball drafting app back in February and hopes to become a professional iOS developer. Josiah on Twitter@kickinbahk Mock Solo on the App Store Feel free to reach … Continue reading &quot;14: Josiah Mory – Customer Support Representative&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>13</id>
+			<title>Mark Fransen - Craft Brewery Bartender</title>
+      <link>https://learnswift.show/13</link>
+			<pubDate>Tue, 14 Nov 2017 06:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://8a9ee27d-e600-4394-bebd-d83e152e8eca</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Mark is a bartender at a craft brewery in downtown LA and holds peer-lab style meet-ups when he gets the chance.</description>
+			<content:encoded>
+				<![CDATA[<p>Apologies for my voice in this episode! I was just getting over a cold and my voice was just coming back at the time of the recording.</p><p>On today’s episode, I interview Mark Fransen. Mark is a bartender at a craft brewery in downtown LA and holds peer-lab style meet-ups when he gets the chance.</p><p>Mark on Twitter <a href="https://twitter.com/swiftymf">@swiftymf</a><br /><a href="https://drawings.google.com">Google Drawings</a><br />
+Adobe Color Scheme Picker &#8211; <a href="https://color.adobe.com">Adobe CC</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E13-MarkFransen.mp3" length="45134077" type="audio/mpeg" />
+			<itunes:subtitle>Apologies for my voice in this episode! I was just getting over a cold and my voice was just coming back at the time of the recording. On today’s episode, I interview Mark Fransen. Mark is a bartender at a craft brewery in downtown LA and holds peer-la...</itunes:subtitle>
+			<itunes:summary>Apologies for my voice in this episode! I was just getting over a cold and my voice was just coming back at the time of the recording. On today’s episode, I interview Mark Fransen. Mark is a bartender at a craft brewery in downtown LA and holds peer-lab style meet-ups when he gets the chance. … Continue reading &quot;13: Mark Fransen – Craft Brewery Bartender&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>12</id>
+			<title>Asma Merchant - C# Developer</title>
+      <link>https://learnswift.show/12</link>
+			<pubDate>Tue, 07 Nov 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://7060c7b9-f153-4167-9e6b-15622da84b45</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Asma is a professional C# developer who took an interest in Swift and iOS development. She currently has her first app, “My Pain Tracker” in the App Store.</description>
+			<content:encoded>
+				<![CDATA[<p>On today’s episode, I interview Asma Merchant. Asma is a professional C# developer who took an interest in Swift and iOS development. She currently has her first app, “My Pain Tracker” in the App Store.</p><p><a href="mailto:asmamerc@hotmail.com">Email Asma</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E12-AsmaMerchant.mp3" length="20512518" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode, I interview Asma Merchant. Asma is a professional C# developer who took an interest in Swift and iOS development. She currently has her first app, “My Pain Tracker” in the App Store. Email Asma Feel free to reach out to me on Twitte...</itunes:subtitle>
+			<itunes:summary>On today’s episode, I interview Asma Merchant. Asma is a professional C# developer who took an interest in Swift and iOS development. She currently has her first app, “My Pain Tracker” in the App Store. Email Asma Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>11</id>
+			<title>Rob Royce - CS Student</title>
+      <link>https://learnswift.show/11</link>
+			<pubDate>Tue, 31 Oct 2017 02:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://BTPZB3T0-811C3DI</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Rob on Twitter – @therobroyce</description>
+			<content:encoded>
+				<![CDATA[<p>Due to the continued technical issues of my podcast hosting solution,<br />
+I will be moving my weekly release date to Monday nights (US Central Time) due to difficulties trying to continue playing catch-up. Starting this week I will be migrating to a different solution. Thank you for your patience!</p><p>Rob on Twitter &#8211; <a href="https://twitter.com/therobroyce">@therobroyce</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E11-RobRoyce.mp3" length="25339320" type="audio/mpeg" />
+			<itunes:subtitle>Due to the continued technical issues of my podcast hosting solution, I will be moving my weekly release date to Monday nights (US Central Time) due to difficulties trying to continue playing catch-up. Starting this week I will be migrating to a differ...</itunes:subtitle>
+			<itunes:summary>Due to the continued technical issues of my podcast hosting solution, I will be moving my weekly release date to Monday nights (US Central Time) due to difficulties trying to continue playing catch-up. Starting this week I will be migrating to a different solution. Thank you for your patience! Rob on Twitter – @therobroyce Feel … Continue reading &quot;11: Rob Royce – CS Student&quot;</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>10</id>
+			<title>Mike Charland - Developer in Test</title>
+      <link>https://learnswift.show/10</link>
+			<pubDate>Sat, 21 Oct 2017 01:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://EPTVYSTL-14I</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Mike on Twitter – @mike_ch_1</description>
+			<content:encoded>
+				<![CDATA[<p>Mike on Twitter &#8211; <a href="https://twitter.com/mike_ch_1">@mike_ch_1</a><br /><a href="https://www.youtube.com/watch?v=KUWn_TJTrnU">Carol Dweck: Growth Mindset vs. Fixed Mindset</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E10-MikeCharland.mp3" length="21178118" type="audio/mpeg" />
+			<itunes:subtitle>Mike on Twitter – @mike_ch_1 Carol Dweck: Growth Mindset vs. Fixed Mindset Feel free to reach out to me on Twitter @steven_0351</itunes:subtitle>
+			<itunes:summary>Mike on Twitter – @mike_ch_1 Carol Dweck: Growth Mindset vs. Fixed Mindset Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>9</id>
+			<title>Richard de Borja - Computational Cancer Researcher</title>
+      <link>https://learnswift.show/9</link>
+			<pubDate>Fri, 13 Oct 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://7XVB1WXL-Y8EHFR</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Richard on Twitter – @rdeborja</description>
+			<content:encoded>
+				<![CDATA[<p>Richard on Twitter &#8211; <a href="https://twitter.com/rdeborja">@rdeborja</a><br />
+Richard on Instagram &#8211; <a href="https://www.instagram.com/rdeborja/">@rdeborja</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E09-RicharddeBorja.mp3" length="26611379" type="audio/mpeg" />
+			<itunes:subtitle>Richard on Twitter – @rdeborja Richard on Instagram – @rdeborja Feel free to reach out to me on Twitter @steven_0351</itunes:subtitle>
+			<itunes:summary>Richard on Twitter – @rdeborja Richard on Instagram – @rdeborja Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>8</id>
+			<title>Me, Myself, & I - Inventory Manager</title>
+      <link>https://learnswift.show/8</link>
+			<pubDate>Tue, 10 Oct 2017 02:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://9DSWQSBX-BNVCXR</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<description>Due to technical issues with the recording and publishing platform I use for the show, I was unable to record or publish any episodes last week, so in the interest of getting a show out I discuss my background and aspirations for becoming a Swift developer.</description>
+			<content:encoded>
+				<![CDATA[<p>On today&#8217;s episode, I interview&#8230;myself! Due to technical issues with the recording and publishing platform I use for the show, I was unable to record or publish any episodes last week, so in the interest of getting a show out I discuss my background and aspirations for becoming a Swift developer.</p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E08-Me.mp3" length="11643633" type="audio/mpeg" />
+			<itunes:subtitle>On today’s episode, I interview…myself! Due to technical issues with the recording and publishing platform I use for the show, I was unable to record or publish any episodes last week, so in the interest of getting a show out I discuss my background an...</itunes:subtitle>
+			<itunes:summary>On today’s episode, I interview…myself! Due to technical issues with the recording and publishing platform I use for the show, I was unable to record or publish any episodes last week, so in the interest of getting a show out I discuss my background and aspirations for becoming a Swift developer.</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>7</id>
+			<title>Patrick McCrory - Interaction Designer</title>
+      <link>https://learnswift.show/7</link>
+			<pubDate>Fri, 29 Sep 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://6UVUS2Q7-B7TA9K9</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<description></description>
+			<content:encoded>
+				<![CDATA[<p><a href="&quot;mailto:">Email Patrick</a><br /><a href="https://www.casperar.com">Casper</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E07-PatrickMcCrory.mp3" length="21332763" type="audio/mpeg" />
+			<itunes:subtitle>Email Patrick Casper Feel free to reach out to me on Twitter @steven_0351</itunes:subtitle>
+			<itunes:summary>Email Patrick Casper Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>6</id>
+			<title>Greg Szydlo - Reporting Manager</title>
+      <link>https://learnswift.show/6</link>
+			<pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://6P5URX5I-5N1XLXR</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Greg on Twitter – @boywithaxe</description>
+			<content:encoded>
+				<![CDATA[<p><a href="https://github.com/patchthecode">JTAppleCalendar</a><br /><a href="https://www.fiverr.com">Fiverr</a><br /><a href="https://stackoverflow.com/questions/29248203/animate-uiview-height-when-using-auto-layout-with-swift">Animating With Autolayout</a><br /><a href="https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw">Sean Allen on YouTube</a></p><p>Greg on Twitter &#8211; <a href="https://twitter.com/boywithaxe">@boywithaxe</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E06-GregSzydlo.mp3" length="29072323" type="audio/mpeg" />
+			<itunes:subtitle>JTAppleCalendar Fiverr Animating With Autolayout Sean Allen on YouTube Greg on Twitter – @boywithaxe Feel free to reach out to me on Twitter @steven_0351</itunes:subtitle>
+			<itunes:summary>JTAppleCalendar Fiverr Animating With Autolayout Sean Allen on YouTube Greg on Twitter – @boywithaxe Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>5</id>
+			<title>Terry Torres - Colonial Tour Guide</title>
+      <link>https://learnswift.show/5</link>
+			<pubDate>Fri, 15 Sep 2017 05:15:00 +0000</pubDate>
+			<guid isPermaLink="false">http://D3D4QSZX-BOTJ4I</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Terry on Twitter – @terrytorres</description>
+			<content:encoded>
+				<![CDATA[<p><a href="https://www.terry-torres.com">Terry&#8217;s Portfolio Site</a><br /><a href="https://github.com/ohterrytorres">Terry&#8217;s GitHub</a></p><p>Terry on Twitter &#8211; <a href="https://twitter.com/terrytorres">@terrytorres</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p><p>&nbsp;</p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E05-TerryTorres.mp3" length="27039369" type="audio/mpeg" />
+			<itunes:subtitle>Terry’s Portfolio Site Terry’s GitHub Terry on Twitter – @terrytorres Feel free to reach out to me on Twitter @steven_0351  </itunes:subtitle>
+			<itunes:summary>Terry’s Portfolio Site Terry’s GitHub Terry on Twitter – @terrytorres Feel free to reach out to me on Twitter @steven_0351  </itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>4</id>
+			<title>David Miller - Freelance Web Scraper</title>
+      <link>https://learnswift.show/4</link>
+			<pubDate>Fri, 08 Sep 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://5UCPGJBY-L01WCDI</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>David’s Portfolio Site - https://www.davidmiller.work</description>
+			<content:encoded>
+				<![CDATA[<p><a href="https://www.davidmiller.work">David&#8217;s Portfolio Site</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p><p>&nbsp;</p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E04-DavidMiller.mp3" length="17231121" type="audio/mpeg" />
+			<itunes:subtitle>David’s Portfolio Site Feel free to reach out to me on Twitter @steven_0351  </itunes:subtitle>
+			<itunes:summary>David’s Portfolio Site Feel free to reach out to me on Twitter @steven_0351  </itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>3</id>
+			<title>Jay Mutzafi - Web Developer</title>
+      <link>https://learnswift.show/3</link>
+			<pubDate>Fri, 01 Sep 2017 03:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://HSYVSBYC-ED0A4I</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Jay on Twitter – @jaymutzafi</description>
+			<content:encoded>
+				<![CDATA[<p><a href="https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg">Mark Moeykens&#8217; YouTube Channel</a><br /><a href="https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw">Sean Allen&#8217;s YouTube Channel</a><br /><a href="https://petapixel.com/2015/07/09/heads-up-you-can-access-lynda-lessons-for-free-at-some-public-libraries/">Free Lynda Access with Library Card</a><br /><a href="https://dribbble.com/">Dribbble</a></p><p>Jay on Twitter &#8211; <a href="https://twitter.com/jaymutzafi">@jaymutzafi</a><br /><a href="www.JayMutzafi.com">JayMutzafi.com</a><br /><a href="https://paradoxapps.com/">Paradox Apps (Jay&#8217;s App Website)</a><br /><a href="https://www.meetup.com/Learn-Swift-Portland/">Learn Swift Portland</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E03-JayMutzafi.mp3" length="26623291" type="audio/mpeg" />
+			<itunes:subtitle>Mark Moeykens’ YouTube Channel Sean Allen’s YouTube Channel Free Lynda Access with Library Card Dribbble Jay on Twitter – @jaymutzafi JayMutzafi.com Paradox Apps (Jay’s App Website) Learn Swift Portland Feel free to reach out to me on Twitter @steven_0351</itunes:subtitle>
+			<itunes:summary>Mark Moeykens’ YouTube Channel Sean Allen’s YouTube Channel Free Lynda Access with Library Card Dribbble Jay on Twitter – @jaymutzafi JayMutzafi.com Paradox Apps (Jay’s App Website) Learn Swift Portland Feel free to reach out to me on Twitter @steven_0351</itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:duration>55:27</itunes:duration>
+		</item>
+		<item>
+      <id>2</id>
+			<title>Marc Aupont - System Administrator</title>
+      <link>https://learnswift.show/2</link>
+			<pubDate>Fri, 25 Aug 2017 02:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://57DFAGFC-CQ8H0K9</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Marc on Twitter – @digimarktech</description>
+			<content:encoded>
+				<![CDATA[<p>Email Marc &#8211; <a href="mailto:mdaupont@gmail.com" rel="nofollow">mdaupont@gmail.com</a><br /><a href="https://www.digimarktech.com">DigiMark Technical Solutions</a><br />
+Marc on Twitter &#8211; <a href="https://twitter.com/digimarktech">@digimarktech</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p><p>&nbsp;</p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E02-MarcAupont.mp3" length="22485913" type="audio/mpeg" />
+			<itunes:subtitle>Email Marc – mdaupont@gmail.com DigiMark Technical Solutions Marc on Twitter – @digimarktech Feel free to reach out to me on Twitter @steven_0351  </itunes:subtitle>
+			<itunes:summary>Email Marc – mdaupont@gmail.com DigiMark Technical Solutions Marc on Twitter – @digimarktech Feel free to reach out to me on Twitter @steven_0351  </itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+		<item>
+      <id>1</id>
+			<title>Victoria Heric - Digital Producer</title>
+      <link>https://learnswift.show/1</link>
+			<pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://F6QN26V4-ZL4N29</guid>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+      <description>Victoria on Twitter – @VictoriaHeric</description>
+			<content:encoded>
+				<![CDATA[<p><a href="https://itunes.apple.com/us/app/dinomyte/id1253630806?ls=1&amp;mt=8">Dinomyte</a> on the App Store (iPad Only)<br /><a href="https://www.midsummerdreamdigital.com/">Midsummer Dream Digital</a><br />
+Victoria on Twitter &#8211; <a href="https://twitter.com/VictoriaHeric">@VictoriaHeric</a></p><p>Feel free to reach out to me on Twitter <a href="https://twitter.com/steven_0351">@steven_0351</a></p><p>&nbsp;</p>
+]]>
+			</content:encoded>
+			<enclosure url="https://media.blubrry.com/the_learn_swift/s3.amazonaws.com/learn-swift-podcast/LSP-S01E01-VictoriaHeric.mp3" length="21570582" type="audio/mpeg" />
+			<itunes:subtitle>Dinomyte on the App Store (iPad Only) Midsummer Dream Digital Victoria on Twitter – @VictoriaHeric Feel free to reach out to me on Twitter @steven_0351  </itunes:subtitle>
+			<itunes:summary>Dinomyte on the App Store (iPad Only) Midsummer Dream Digital Victoria on Twitter – @VictoriaHeric Feel free to reach out to me on Twitter @steven_0351  </itunes:summary>
+			<itunes:author>Steven Sherry</itunes:author>
+			<itunes:image href="https://learnswift.show/learnswift-cover.png" />
+			<itunes:explicit>clean</itunes:explicit>
+		</item>
+	</channel>
+</rss>
